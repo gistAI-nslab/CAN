@@ -2,7 +2,7 @@
 Deep learning approach for attack detection in controller area networks
 
 ## Dataset download
-download HCRL Car Challenge 2020 Dataset: [download](https://ocslab.hksecurity.net/Datasets/carchallenge2020 "dataset link")
+download HCRL Car Challenge 2020 Dataset: [download link](https://ocslab.hksecurity.net/Datasets/carchallenge2020 "dataset link")
 
 ## Code Description
 ### config.py
